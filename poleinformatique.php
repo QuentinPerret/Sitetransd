@@ -21,7 +21,7 @@
 					<li>Les scripts laissées permettaient de transformer des valeurs héxadécimales contenus dans un fichier en des valuers décimales. C'est scripts ont pour objectif de transformé les valeurs envoyés par le capteur Végétal Signal afin de rendre leur traitement plus facile par la suite.</li>
 					<li>Néanmoins le code était très peu commenté et donc peu compréhensible, dans un soucis de partage nous avons décidé de le commenter plus précisement et de le documenté sur notre page wiki.</li>
 				</ul>
-				<b>Deuxème partie : traitement du signal</b>
+				<b>Deuxème partie : traitement du signal</b>azeukjgbeimearnv
 				<ul>
 					<li>Une fois le scrtipt python documenté nous avons souhaité ajouter au script python une partie de traitement du signal obtenu en étudiant sur moyenne au cours du temps mais aussi en décompant le sigal en série de Fourier.</li>
 					<li></li>
