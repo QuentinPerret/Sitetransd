@@ -10,6 +10,20 @@
       	<div class="container">
         	<?php require_once "includes/header.php"; ?>
 			<div class="container-fluid">
+			<h1>Objectifs du pôle informatique</h1>
+		<div class="row">
+			<div class="col-lg-12 col-md-12 col-sm-12 contenu">
+				<h3>Objectif principal</h3>
+				<p>L'objectif principal du pôle informatique était de récupérer les valeurs renvoyées par les capteurs placés sur les plantes et les traiter, afin d'utiliser les données obtenues pour diriger le robot vers le soleil.</p>
+				<p>Pour cela, le pôle était composé de deux membres : </p>
+				<ul>
+					<li>Clara Courtois</li>
+					<li>Quentin Perret</li>
+				</ul>
+				<h3>Sous-objectifs</h3>
+				<p></p>
+			</div>
+		</div>
 				<h1>Travail réalisé</h1>
 				<div class="row">
 					<div class="col-lg-12 col-md-12 col-sm-12 contenu">
@@ -35,7 +49,6 @@
 						
 					</div>
 				</div>
-
 				<h1>Suite du projet</h1>
 
 				<div class="row">
@@ -50,6 +63,7 @@
 						<p>L'ensemble des scripts écrits est disponible sur le <a href='https://git.cohabit.fr/pgp/Traitement-signal-plantes' target="_blank">GitTea</a> du projet </p>
 					</div>
 				</div>
+
 			</div>
 		</div>
 		<?php require_once "includes/footer.php"; ?>
