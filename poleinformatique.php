@@ -59,7 +59,7 @@
 							<li>Réalisé des expériences afin de déterminer une loi permettant de diriger efficacement le robot vers le soleil.</li>
 							<li>Documenter le travail réalisé.</li>
 						</ul>
-						<p>Ce travail sera poursuivi par Quentin qui effectura son stage d'innitaition au fablab Cohabit.</p>
+						<p>Ce travail sera poursuivi par Quentin qui effectura son stage d'innitaition au fablab Coh@bit.</p>
 						<p>L'ensemble des scripts écrits est disponible sur le <a href='https://git.cohabit.fr/pgp/Traitement-signal-plantes' target="_blank">GitTea</a> du projet </p>
 					</div>
 				</div>
