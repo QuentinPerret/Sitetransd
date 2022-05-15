@@ -11,17 +11,31 @@
         <?php require_once "includes/header.php"; ?>
 
         <div class="container-fluid">
-		<h1>Travail réalisé ghjhcvbhgfvbh</h1>
+		<h1>Objectifs du pôle informatique</h1>
+		<div class="row">
+			<div class="col-lg-12 col-md-12 col-sm-12 contenu">
+				<h3>Objectif principal</h3>
+				<p>L'objectif principal du pôle informatique était de récupérer les valeurs renvoyées par les capteurs placés sur les plantes et les traiter, afin d'utiliser les données obtenues pour diriger le robot vers le soleil.</p>
+				<p>Pour cela, le pôle était composé de deux membres : </p>
+				<ul>
+					<li>Clara Courtois</li>
+					<li>Quentin Perret</li>
+				</ul>
+				<h3>Sous-objectifs</h3>
+				<p></p>
+			</div>
+		</div>
+		<h1>Travail réalisé</h1>
 		<div class="row">
 			<div class="col-lg-12 col-md-12 col-sm-12 contenu">
 				<h3>Progression du projet</h3>
 				<p><b>Première partie : reprise du projet</b>
 				</p><ul>
-					<li>Le travail du pole informatique en octobre a commencé par une reprise du projet et des différents scripts laissé sur le wiki par le groupe d'étudiants de l'année précédente. Deux scripts ont été laissée : un en C et un en python. Les membres du pôle ayant déja fait du python. Nous avons décidé de nous concentré d'abord sur le scripts python lors de notre travail de reprise.</li>
-					<li>Les scripts laissées permettaient de transformer des valeurs héxadécimales contenus dans un fichier en des valuers décimales. C'est scripts ont pour objectif de transformé les valeurs envoyés par le capteur Végétal Signal afin de rendre leur traitement plus facile par la suite.</li>
-					<li>Néanmoins le code était très peu commenté et donc peu compréhensible, dans un soucis de partage nous avons décidé de le commenter plus précisement et de le documenté sur notre page wiki.</li>
+					<li>Le travail du pôle informatique en octobre a commencé par une reprise du projet et des différents scripts laissés sur le wiki par le groupe d'étudiants de l'année précédente. Deux scripts ont été laissés : un en C et un en python. Les membres du pôle ayant déja fait du python, nous avons décidé de nous concentrer d'abord sur le script python lors de notre travail de reprise.</li>
+					<li>Les scripts laissés permettaient de transformer des valeurs héxadécimales contenus dans un fichier en des valeurs décimales. Ces scripts ont pour objectif de transformer les valeurs envoyées par le capteur Végétal Signal afin de rendre leur traitement plus facile par la suite.</li>
+					<li>Néanmoins, le code était très peu commenté et donc peu compréhensible, dans un soucis de partage nous avons décidé de le commenter plus précisement et de le documenter sur notre page wiki.</li>
 				</ul>
-				<b>Deuxème partie : traitement du signal</b>azeukjgbeimearnv
+				<b>Deuxième partie : traitement du signal</b>
 				<ul>
 					<li>Une fois le scrtipt python documenté nous avons souhaité ajouter au script python une partie de traitement du signal obtenu en étudiant sur moyenne au cours du temps mais aussi en décompant le sigal en série de Fourier.</li>
 					<li></li>
