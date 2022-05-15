@@ -1,3 +1,3 @@
-# MyMovies-correction
+# Site TransD
 
-Activité web de l'ENSC.
+Site réalisé pour le projet trabsdisciplinaire plantes connectés 2021-2022
