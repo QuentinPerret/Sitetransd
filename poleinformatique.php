@@ -24,8 +24,8 @@
 				<p>Le pôle informatique commençant pratiquement de 0 ce travail, il a fallu découper cet objectif majeur en plusieurs tâches.</p>
 				<ul>
 					<li>Compléter la documentation, et notamment commenter le code laissé par les élèves de l'an dernier</li>
-					<li>Récupérer les données envoyées par les capteurs en temps réel</li>
-					<li>Traiter ces données</li>
+					<li>Récupérer les données envoyées par les valeurs en temps réel</li>
+					<li>Traiter ces valeurs</li>
 					<li>À partir des informations obtenues, faire déplacer le robot</li>
 				</ul>
 			</div>
