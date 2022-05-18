@@ -24,7 +24,7 @@
 				<br>
 				Notre objectif principal est :
 					</p><ul>
-						<li>Le <a href="gowest.php"><b>Robot Go-West</b></a> : il s'agit de construire un robot sur chenilles qui lit en direct le signal des plantes afin de se diriger en direction du soleil. Cette année s'est porté principalement sur la conception du char et la liaison des moteurs aux drivers et à la carte mère. L'année prochaine pourra être dédiée à la liaison aux plantes.</li>
+						<li>Le <a href="https://projets.cohabit.fr/redmine/projects/communication-racinaire" target="_blank"><b>Robot Go-West</b></a> : il s'agit de construire un robot sur chenilles qui lit en direct le signal des plantes afin de se diriger en direction du soleil. Cette année s'est porté principalement sur la conception du char et la liaison des moteurs aux drivers et à la carte mère. L'année prochaine pourra être dédiée à la liaison aux plantes.</li>
 					
 					</ul>
 				Au niveau du rendu, il nous a été demandé, en plus du cahier des charges, de remplir le wiki du Fablab avec les informations nécéssaires aux personnes qui reprendront le projet et également de créer un livrable de documentation permettant de refaire tout ce que nous avons fait jusqu'à présent et de l'expliquer clairement. 
