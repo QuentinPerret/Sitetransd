@@ -33,7 +33,7 @@
 				<ul class="row" style="list-style: none;">
 				<li class="col-lg-4 col-md-4 col-sm-12 centre"><u>Google Drive</u><br><img src="images/google_drive.png" height="100" class="photo"></li>
 				<li class="col-lg-4 col-md-4 col-sm-12 centre"><u>Wiki du Fablab Coh@bit</u><br><img src="images/Cohabit.jpg" height="100" class="photo"></li>
-				<li class="col-lg-4 col-md-4 col-sm-12 centre"><u>Git</u><br/><img src="images/git.png" alt="logo git" height="100"></li>
+				<li class="col-lg-4 col-md-4 col-sm-12 centre"><u>GitTea</u><br/><img src="images/gitea.png" alt="logo gitTea" height="100"></li>
 				</ul>
 				<p>Nous avons décidé d’effectuer le partage de ressources via google drive. C’est un outil très pratique qui permet d'échanger rapidement des documents et interagir tous ensemble dessus. Nous avons également partagé nos différents fichiers de code grâce à git. Néanmoins, l’une des problématiques de notre projet était la présence de données pouvant être sensibles. En effet, c’est un domaine de recherche très convoité. C’est donc l’une des raisons qui nous a également poussé à utiliser le wiki du fablab Coh@bit. L’autre raison, qui est plus évidente, est la nécessité de rédiger une documentation précise de notre travail, afin qu’il ait une valeur scientifique. De plus, le wiki permet de réaliser facilement des tickets/demandes pour signaler les prochaines tâches à effectuer. Ce wiki est donc l’endroit idéal pour remplir cet objectif car il dépend de la structure responsable du projet.</p>
 				
