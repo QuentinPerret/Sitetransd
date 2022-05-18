@@ -41,7 +41,7 @@
 				<div class="text-center">
             <img class="illustration" src="images/ressortvf.jpg" alt="ecran-accueil" height="400" width="500"  >
             </div><br/>
-        <li>Changement des engrenages du block moteur pour augmenter le couple. On a donc choisi des engrenages de plus grand diamètre ce qui nous a obligé à redesigner et réimprimer le block moteur en accord avec les nouvelles dimentions des engrenages.
+        <li>Changement des engrenages du block moteur pour réduire le couple. On a donc choisi des engrenages de plus grand diamètre ce qui nous a obligé à redesigner et réimprimer le block moteur en accord avec les nouvelles dimentions des engrenages.
         </li>
 				<div class="text-center">
             <img class="illustration" src="images/changement_engrenage.png" alt="ecran-accueil" height="400" width="500"  >
@@ -79,9 +79,11 @@
             De manière à pouvoir poursuivre notre projet, nous avons appris à nous servir d’une imprimante 3D et notamment du logiciel Cura Ultimaker. En effet, bien que notre encadrant nous ai imprimé la majorité des pièces, il n'empêche que nous pouvons toujours améliorer des points ou réimprimer des pièces si nous les cassons (ce qui a pu se produire). Ainsi, nous avons vu quelques fonctionnalités de base comme par exemple le remplissage des pièces en pourcentage qui permet de moduler la solidité de la pièce fabriquée, l’épaisseur des contours, l’ajout d’un support de manière à pouvoir décoller les petites pièces plus facilement. 
 Néanmoins, nous avons pu constater qu’il y a parfois de léger défauts dans la conception des pièces, quelques millimètres sont en trop et dans certains cas, nous avons dû limer des parties des pièces pour que tout puisse s’emboiter.
 <br><br>
+        <div class="text-center">
             <img src="images/imprimante3D.png" height="300" width="300" class="illustration">
             </p><p class="centre"><u>Mise en perspective et impression de la roue dentée</u></p>
             <p></p>
+        </div>
             
 
           <?php require_once "includes/footer.php"; ?>

@@ -9,6 +9,13 @@
     <body style="background-color: beige">
       	<div class="container">
         	<?php require_once "includes/header.php"; ?>
+			<h3>Outils utilisés</h3>
+				<h4>Outils utilisés</h4>
+				<ul class="row" style="list-style: none;">
+				<li class="col-lg-4 col-md-4 col-sm-12 centre"><u>C</u><br/><img src="images/linguagem-c.png" height="100" class="photo"></li>
+				<li class="col-lg-4 col-md-4 col-sm-12 centre"><u>Python</u><br/><img src="images/python.png" height="100" class="photo"></li>
+				<li class="col-lg-4 col-md-4 col-sm-12 centre"><u>GitTea</u><br/><img src="images/gitea.png" alt="logo gitTea" height="100"></li>
+				</ul>
 			<div class="container-fluid">
 			<h1>Objectifs du pôle informatique</h1>
 		<div class="row">
