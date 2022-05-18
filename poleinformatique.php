@@ -34,6 +34,11 @@
 				<div class="row">
 					<div class="col-lg-12 col-md-12 col-sm-12 contenu">
 						<h3>Progression du projet</h3>
+						<b>Ce qui a été fait depuis janvier</b>
+						<div class="text-center">
+							<img class="illustration" src="images/mapjanvier_info.PNG" alt="progression du pôle informatique depuis janvier"  height=400 width=900/>
+						</div>
+						<br/>
 						<p><b>Première partie : reprise du projet</b>
 						</p><ul>
 							<li>Le travail du pole informatique en octobre a commencé par une reprise du projet et des différents scripts laissé sur le wiki par le groupe d'étudiants de l'année précédente. Deux scripts ont été laissée : un en C et un en python. Les membres du pôle ayant déja fait du python. Nous avons décidé de nous concentré d'abord sur le scripts python lors de notre travail de reprise.</li>
@@ -66,7 +71,7 @@
 							<li>Documenter le travail réalisé.</li>
 						</ul>
 						<p>Ce travail sera poursuivi par Quentin qui effectura son stage d'innitaition au fablab Coh@bit.</p>
-						<p>L'ensemble des scripts écrits est disponible sur le <a href='https://git.cohabit.fr/pgp/Traitement-signal-plantes' target="_blank">GitTea</a> du projet </p>
+						<p>L'ensemble des scripts écrits est disponible sur le <a href='https://git.cohabit.fr/pgp/Traitement-signal-plantes' target="_blank">GitTea</a> du projet. </p>
 					</div>
 				</div>
 

@@ -16,7 +16,7 @@
 						mdapontedon@ensc.fr<br></p>
 					</div>
 					<div class="col-lg-3 col-md-3 col-sm-12">
-						<img src="images/logoensc.png" ,="" height="105" width="150" id="logo">
+						<img src="images/logoensc.png" ,="" height="85"  id="logo">
 					</div>
 			<div>
 		</div></div></div></footer>

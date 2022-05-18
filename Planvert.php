@@ -44,7 +44,11 @@
 				<li><b>Lucas : </b>Pour moi le projet transdisciplinaire fut une expérience agréable. Il m’a permis de découvrir des structures différentes de celles auxquelles j’étais habitué. En effet, le Fablab est un lieu de partage de connaissances et d’entraide sur les projets qui est fort intéressant. Nous avons pu échanger avec des personnes de divers horizons, ce qui était enrichissant. Au niveau du projet en lui-même, j’ai acquis des nouvelles compétences et je me suis également rendu compte de l’importance de la méthodologie et de l’organisation du travail en groupe sur des projets conséquents et impliquant des acteurs extérieurs. </li></ul>
 				
 				<h3>Plan Vert</h3>
-				<p>Le Plan Vert doit recouvrir toutes les dimensions du développement durable c'est-à-dire par des aspects économiques, sociaux et environnementaux. Les projets sont menés par le Fablab Cohabit qui soutient et offre l’accès à ses services à un très large public (jeunes en situation de décrochage scolaire par exemple). Différents acteurs locaux sont également impliqués à savoir: Ossia-score, Végétal Signals. D’un point de vue environnemental, les contraintes sanitaires ont encouragé le travail à distance donc par voie informatique. Nous avons fonctionné étapes par étapes quand à l’impression des pièces par imprimante 3D, de façon à ne pas gaspiller de matières dans le cas d’erreurs.</p>
+				<p>Le Plan Vert doit recouvrir toutes les dimensions du Développement Durable et de la Responsabilité Sociétale (DD&RS), c'est-à-dire par des aspects économiques, sociaux et environnementaux.</p>
+				<p>Le projet est mené par le Fablab Cohabit qui soutient et offre l’accès à ses services à un très large public, et accueille notamment des jeunes en situation de décrochage scolaire par exemple.</p>
+				<p>Différents acteurs locaux sont également impliqués et notamment <strong>Végétal Signals</strong>.</p>
+				<p>D’un point de vue environnemental, les débris de plastique générés lors des impressions 3D ainsi que les pièces à changer étaient recyclés, et nous ne ré-imprimions que les pièces qui ne pouvaient vraiment pas être utilisées en l'état (nous limions certaines pièces qui n'avaient pas besoin d'être forcément imprimées de nouveau après la modification des plans par exemple).</p>
+				
 				
 			</div>
 		</div>
@@ -52,19 +56,3 @@
 		</div>
 
           <?php require_once "includes/footer.php"; ?>
-      </div>
-
-      <?php require_once "includes/scripts.php"; ?>
-    </body>
-
-  </html>
-
-
-    <html>
-
-    <body>
-      <img src="https://sd.keepcalm-o-matic.co.uk/i/don-t-mess-with-me-bro.png" />
-    </body>
-
-    </html>
-    
