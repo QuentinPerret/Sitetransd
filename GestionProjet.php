@@ -52,7 +52,6 @@
 				<ul>
 					<li>Pour chaque étape du projet, nous ne définissons pas un temps imparti ou une deadline, nous avançons au fur et à mesure sans réellement se fixer de date à laquelle finir telle ou telle partie</li>
 				</ul>
-
 			</div>
 		</div>
 
