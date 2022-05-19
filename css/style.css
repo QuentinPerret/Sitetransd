@@ -1,69 +1,68 @@
 body {
-    padding-top: 60px;
+  padding-top: 60px;
 }
 .logotransd {
-
-color: gray;
+  color: gray;
 }
 
-.navbar-default{
-    background-color: green;
-    font-size: 1.4em;
-   
+.navbar-default {
+  background-color: green;
+  font-size: 1.4em;
 }
 .centre {
-    text-align:center;
-    
+  text-align: center;
 }
-.fablab{
-    height: 100px;
-    width: 100px;
-    text-align:left
+.fablab {
+  height: 100px;
+  width: 100px;
+  text-align: left;
 }
 .a {
-    color: white;
+  color: white;
 }
-.nav.navbar-brand{
-    color: white;
+.nav.navbar-brand {
+  color: white;
 }
 
-.nav.navbar-nav li a{
-    color: white; 
-    font-size: 20px;
+.nav.navbar-nav li a {
+  color: white;
+  font-size: 20px;
 }
 
 .footer {
-    border-top: 1px solid #ccc;
-    padding-top: 10px;
-    margin-bottom: 10px;
-    text-align: center;
+  border-top: 1px solid #ccc;
+  padding-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
 }
 
 .movieTitle:hover,
 .movieTitle:focus {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 .movieContent {
-    text-align: justify;
+  text-align: justify;
 }
 
 .movieImage {
-    border-radius: 7px;
-    border: 4px solid white;
-    box-shadow: 1px 1px 10px #555;
+  border-radius: 7px;
+  border: 4px solid white;
+  box-shadow: 1px 1px 10px #555;
 }
 
-.illustration{
-
-        margin-left: auto;
-        margin-right: auto;
-        border-radius: 8px;
-        max-width: 100%;
-        
-
+.illustration {
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  max-width: 100%;
 }
 
-.titre{
-    color:red;
+.titre {
+  color: red;
+}
+
+p,
+li {
+  font-size: 130%;
 }

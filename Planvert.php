@@ -20,8 +20,6 @@
 				<p>Le projet est mené par le Fablab Cohabit qui soutient et offre l’accès à ses services à un très large public, et accueille notamment des jeunes en situation de décrochage scolaire par exemple.</p>
 				<p>Différents acteurs locaux sont également impliqués et notamment <strong>Végétal Signals</strong>.</p>
 				<p>D’un point de vue environnemental, les débris de plastique générés lors des impressions 3D ainsi que les pièces à changer étaient recyclés, et nous ne ré-imprimions que les pièces qui ne pouvaient vraiment pas être utilisées en l'état (nous limions certaines pièces qui n'avaient pas besoin d'être forcément imprimées de nouveau après la modification des plans par exemple).</p>
-				
-				
 			</div>
 		</div>
 

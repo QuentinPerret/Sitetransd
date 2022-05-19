@@ -41,7 +41,7 @@
 				<div class="row">
 					<div class="col-lg-12 col-md-12 col-sm-12 contenu">
 						<h3>Progression du projet</h3>
-						<b>Ce qui a été fait depuis janvier</b>
+						<p><b>Ce qui a été fait depuis janvier</b></p>
 						<div class="text-center">
 							<img class="illustration" src="images/mapjanvier_info.PNG" alt="progression du pôle informatique depuis janvier"  height=400 width=900/>
 						</div>
@@ -50,21 +50,19 @@
 						</p><ul>
 							<li>Le travail du pôle informatique en octobre a commencé par une reprise du projet et des différents scripts laissés sur le wiki par le groupe d'étudiants de l'année précédente. Deux scripts ont été laissés : un en C et un en python. Les membres du pôle ayant déja fait du python, nous avons décidé de nous concentrer d'abord sur le scripts python lors de notre travail de reprise.</li>
 							<li>Les scripts laissés permettaient de transformer des valeurs héxadécimales contenues dans un fichier en des valeurs décimales. Ces scripts ont pour objectif de transformer les valeurs envoyées par le capteur Végétal Signal afin de rendre leur traitement plus facile par la suite.</li>
-							<li>Néanmoins le code était très peu commenté et donc peu compréhensible, donc, dans un soucis de partage, nous avons décidé de le commenter plus précisement et de le documenter sur notre page wiki.</li>
+						<li>Néanmoins le code était très peu commenté et donc peu compréhensible, donc, dans un soucis de partage, nous avons décidé de le commenter plus précisement et de le documenter sur notre page wiki.</li>
 						</ul>
-						<b>Deuxème partie : traitement du signal</b>
+						<p><b>Deuxème partie : traitement du signal</b></p>
 						<ul>
 							<li>Une fois le script python documenté, nous avons souhaité lui ajouter une partie de traitement du signal obtenu en étudiant sa moyenne au cours du temps, mais aussi en décomposant le signal en séries de Fourier.</li>
 							<li>Une rencontre avec les ingénieurs de Vegetal Signals nous a permis d'en apprendre plus sur les possibilités de traitement de signal avec leur capteur, et leurs conseils nous ont permis de recadrer notre travail.</li>
 						</ul>
-						<b>Troisième partie : changement de langage de code </b>
+						<p><b>Troisième partie : changement de langage de code </b></p>
 						<ul>
 							<li>Le python avait été choisi car c'était un langage déjà utilisé par les membres du pôle informatique, mais celui-ci ne permettait pas de réaliser les opérations nécessaires de traitement des valeurs assez rapidement.</li>
 							<li>Nous avons donc décidé de coder à présent en C, en reprenant le script de transformation de valeurs héxadécimales vers les valeurs décimales.</li>
 							<li>Le C étant un langage nouveau pour tous les membres du groupe, une période de formation a été nécessaire, et nous a retardés.</li>
 						</ul>
-						<p></p>
-						
 					</div>
 				</div>
 				<h1>Suite du projet</h1>
