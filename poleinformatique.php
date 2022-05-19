@@ -48,20 +48,20 @@
 						<br/>
 						<p><b>Première partie : reprise du projet</b>
 						</p><ul>
-							<li>Le travail du pole informatique en octobre a commencé par une reprise du projet et des différents scripts laissé sur le wiki par le groupe d'étudiants de l'année précédente. Deux scripts ont été laissée : un en C et un en python. Les membres du pôle ayant déja fait du python. Nous avons décidé de nous concentré d'abord sur le scripts python lors de notre travail de reprise.</li>
-							<li>Les scripts laissées permettaient de transformer des valeurs héxadécimales contenus dans un fichier en des valuers décimales. C'est scripts ont pour objectif de transformé les valeurs envoyés par le capteur Végétal Signal afin de rendre leur traitement plus facile par la suite.</li>
-							<li>Néanmoins le code était très peu commenté et donc peu compréhensible, dans un soucis de partage nous avons décidé de le commenter plus précisement et de le documenté sur notre page wiki.</li>
+							<li>Le travail du pôle informatique en octobre a commencé par une reprise du projet et des différents scripts laissés sur le wiki par le groupe d'étudiants de l'année précédente. Deux scripts ont été laissés : un en C et un en python. Les membres du pôle ayant déja fait du python, nous avons décidé de nous concentrer d'abord sur le scripts python lors de notre travail de reprise.</li>
+							<li>Les scripts laissés permettaient de transformer des valeurs héxadécimales contenues dans un fichier en des valeurs décimales. Ces scripts ont pour objectif de transformer les valeurs envoyées par le capteur Végétal Signal afin de rendre leur traitement plus facile par la suite.</li>
+							<li>Néanmoins le code était très peu commenté et donc peu compréhensible, donc, dans un soucis de partage, nous avons décidé de le commenter plus précisement et de le documenter sur notre page wiki.</li>
 						</ul>
 						<b>Deuxème partie : traitement du signal</b>
 						<ul>
-							<li>Une fois le scrtipt python documenté nous avons souhaité ajouter au script python une partie de traitement du signal obtenu en étudiant sur moyenne au cours du temps mais aussi en décompant le sigal en série de Fourier.</li>
-							<li>Une rencontre avec les ingénieurs de Vegetal Signals nous a permis d'en apprendre plus sur les possibilités de traitement de signal avec leur capteur mais aussi leurs conseils nous ont permis de recaadrer notre travail.</li>
+							<li>Une fois le script python documenté, nous avons souhaité lui ajouter une partie de traitement du signal obtenu en étudiant sa moyenne au cours du temps, mais aussi en décomposant le signal en séries de Fourier.</li>
+							<li>Une rencontre avec les ingénieurs de Vegetal Signals nous a permis d'en apprendre plus sur les possibilités de traitement de signal avec leur capteur, et leurs conseils nous ont permis de recadrer notre travail.</li>
 						</ul>
-						<b>Troisième partie : changement de language de code </b>
+						<b>Troisième partie : changement de langage de code </b>
 						<ul>
-							<li>Le pyhton avait été choisis car c'était un language déjà utilisé par les membres du pôle informatique mais celui-ci ne permettait pas de réaliser les opérations nécessaires de traitement des valeurs assez vite.</li>
-							<li>Nous avons donc décider de coder à prtésent en C en reprenant le script de transformation de valuer héxadécimales vers décimales.</li>
-							<li>Le C étant un language nouveau pour tout les membres du groupe, une période de formation a été nécessaire ce qui nous a retardé.</li>
+							<li>Le python avait été choisi car c'était un langage déjà utilisé par les membres du pôle informatique, mais celui-ci ne permettait pas de réaliser les opérations nécessaires de traitement des valeurs assez rapidement.</li>
+							<li>Nous avons donc décidé de coder à présent en C, en reprenant le script de transformation de valeurs héxadécimales vers les valeurs décimales.</li>
+							<li>Le C étant un langage nouveau pour tous les membres du groupe, une période de formation a été nécessaire, et nous a retardés.</li>
 						</ul>
 						<p></p>
 						
@@ -73,11 +73,11 @@
 					<div class="col-lg-12 col-md-12 col-sm-12 contenu">
 						<h3>Travail restant</h3>
 						<ul>
-							<li>Finir les scripts C permettant de traiter les valurs renvoyé par le capteurs Vegetal Signals.</li>
-							<li>Réalisé des expériences afin de déterminer une loi permettant de diriger efficacement le robot vers le soleil.</li>
+							<li>Finir les scripts C permettant de traiter les valeurs renvoyées par les capteurs Vegetal Signals.</li>
+							<li>Réaliser des expériences afin de déterminer une loi permettant de diriger efficacement le robot vers le soleil.</li>
 							<li>Documenter le travail réalisé.</li>
 						</ul>
-						<p>Ce travail sera poursuivi par Quentin qui effectura son stage d'innitaition au fablab Coh@bit.</p>
+						<p>Ce travail sera poursuivi par Quentin qui effectura son stage d'initiation au fablab Coh@bit.</p>
 						<p>L'ensemble des scripts écrits est disponible sur le <a href='https://git.cohabit.fr/pgp/Traitement-signal-plantes' target="_blank">GitTea</a> du projet. </p>
 					</div>
 				</div>

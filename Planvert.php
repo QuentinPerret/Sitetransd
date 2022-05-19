@@ -11,31 +11,9 @@
         <?php require_once "includes/header.php"; ?>
 
         <div class="container-fluid">
-			<h1>Retours et Plan Vert</h1>
+			<h1>Plan Vert</h1>
 		<div class="row">
 			<div class="col-lg-12 col-md-12 col-sm-12 contenu">
-				<h3>Rétrospective sur le projet</h3>
-				<p><b>Points forts</b>
-				</p><ul>
-					<li>Nous avons eu l’occasion d’acquérir des compétences dans des domaines qui nous étaient inconnus.</li>
-					<li>Prendre conscience des enjeux de la programmation de bas niveau.</li>
-					<li>La bonne entente au sein de l’équipe et des membres du Fablab.</li>
-					<li>Un cadre de travail bien équipé.</li>
-				</ul>
-				<b>Points faibles</b>
-				<ul>
-					<li>Nous n’avons pas eu l’occasion de relever des signaux provenant des plantes.</li>
-					<li>Nos objectifs étaient peut être trop ambitieux, nous n’avons donc pas réussi à les atteindre.</li>
-					<li>Le fait que le cadre de travail soit bien équipé implique également une forte dépendance au fablab pour travailler. Ce qui fut compliqué avec les conditions sanitaires.</li>
-				</ul>
-				<b>Pistes d'amélioration</b>
-				<ul>
-					<li>Une répartition et une planification des tâches de chacun en fonction de ses préférences et/ou compétences sur les deux projets.</li>
-					<li>Une meilleure mise en place du travail à domicile.</li>
-					<li>Nécessite un certain nombre de connaissances de bases, bien que nous ayons tout de même découvert de nombreux domaines.</li>
-					<li>Groupe mixte (ex : ENSC + Licence plus orientée informatique)</li>
-				</ul>
-				<p></p>
 				
 				<h3>Plan Vert</h3>
 				<p>Le Plan Vert doit recouvrir toutes les dimensions du Développement Durable et de la Responsabilité Sociétale (DD&RS), c'est-à-dire par des aspects économiques, sociaux et environnementaux.</p>
