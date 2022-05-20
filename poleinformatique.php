@@ -57,7 +57,7 @@
 							<li>Une fois le script python documenté, nous avons souhaité lui ajouter une partie de traitement du signal obtenu en étudiant sa moyenne au cours du temps, mais aussi en décomposant le signal en séries de Fourier.</li>
 							<li>Une rencontre avec les ingénieurs de Vegetal Signals nous a permis d'en apprendre plus sur les possibilités de traitement de signal avec leur capteur, et leurs conseils nous ont permis de recadrer notre travail.</li>
 						</ul>
-						<p><b>Troisième partie : changement de langage de code </b></p>
+						<p><b>Troisième partie : portage de code en C</b></p>
 						<ul>
 							<li>Le python avait été choisi car c'était un langage déjà utilisé par les membres du pôle informatique, mais celui-ci ne permettait pas de réaliser les opérations nécessaires de traitement des valeurs assez rapidement.</li>
 							<li>Nous avons donc décidé de coder à présent en C, en reprenant le script de transformation de valeurs héxadécimales vers les valeurs décimales.</li>

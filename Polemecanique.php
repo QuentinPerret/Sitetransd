@@ -15,12 +15,21 @@
 		<div class="row">
 			<div class="col-lg-12 col-md-12 col-sm-12 contenu">
 				<h3>Objectif principal de cette année</h3>
-				<p>Cette section illustre tous les points qui ont été pensés tout au long de l'année. La mécanique s'avère souvent être un processus plutot lent avec de petites avancées et des retours en arrière. Néanmoins, nous avons gardé la motivation de parvenir à satisfaire ces objectifs en allant au Fablab le plus de fois possible.</p>
+				<p>Cette section illustre tous les points qui ont été pensés tout au long de l'année. La mécanique s'avère souvent être un processus plutot lent du fait de la nécessité de tester les solutions. C'est aussi pourquoi le projet prend du temps. Nous devons concevoir la solution, imprimer les pièces en 3D et la tester. Au demeurant, nous restions motivé pour avancer sur l'assemblage du robot tous les jeudis</p>
         <ul>
 					<li>Améliorer les plans du robot de l'année dernière.</li>
 					<li>Tendre la chenille du robot. Créer un mecanisme de ressort complexe.</li>
 					<li>Assembler toutes les pièces du robot et faire un premier test.</li>
 				</ul>
+        <br>
+        <div class="text-center">
+            <img class="illustration" src="images/cyclemecanique.png" alt="schema du cycle mecanique" height="400" width="400"  >
+            </div>
+            <p class="centre"><u>Schéma du processus d'assemblage du robot</u></p>
+        <br>
+        <br>
+        <br>
+        <br>
 				<p><b>Ce qui avait été fait d'octobre à janvier </b></p>
 				<div class="text-center">
             <img class="illustration" src="images/mapjanvier.png" alt="ecran-accueil" height="400" width="900"  >
@@ -28,17 +37,17 @@
 			
 				
 				<h3>Aide interne et externe pour mener à bien ces objectifs</h3>
-				<p>Nous disposions de l'aide de plusieurs étudiants en stage au fablab. À partir de janvier, Hugo en stage pour un mois nous a aidé sur le plan du robot. Malheureusement, ses plans n'étaient pas optimaux et ne fonctionnaient pas à l'assemblage. Un autre étudiant, El Azad, en service civique pour quelques mois nous a aidé sur le mécanisme des ressorts. Il a pu répondre à nos besoins et a créé des pièces fonctionnelles. Au niveau interne, notre tuteur Pierre a énormement contribué à la conception et l'assemblage du robot. Il a pu se rendre disponible malgré son emploi du temps chargé et ses autres projets. Quand nous ne savions pas quelle orientation prendre, Pierre nous a donné des conseils et nous a transmis des connaissances en modélisation, impréssion 3D et éléctronique. Pour cela, nous lui devons beaucoup.</p>
+				<p>Nous disposions de l'aide de plusieurs étudiants en stage au fablab. À partir de janvier, Hugo en stage de fin d'étude nous a aidé sur le plan du robot. Malheureusement, ses plans n'étaient pas optimaux et ne fonctionnaient pas à l'assemblage. Un autre étudiant, El Azad, en service civique pour quelques mois nous a aidé sur le mécanisme des ressorts. Il a pu répondre à nos besoins et a créé des pièces fonctionnelles. Au niveau interne, notre tuteur Pierre a énormement contribué à la conception et l'assemblage du robot. Il a pu se rendre disponible malgré son emploi du temps chargé et ses autres projets. Quand nous ne savions pas quelle orientation prendre, Pierre nous a donné des conseils et nous a transmis des connaissances en modélisation, impréssion 3D et éléctronique. Pour cela, nous lui devons beaucoup.</p>
 
 				
 				<h3>Ce qui a été fait de janvier à aujourd'hui</h3>
 				<ul>
-          <li>Nouvelle chenille imprimée avec un matériau plus flexible. Elle est maintenant assez tendue.</li>
+          <li>Nouvelle chenille imprimée avec un matériau plus flexible(tpu). Elle est maintenant assez tendue.</li>
           <div class="text-center">
             <img class="illustration" src="images/chenillevf.jpg" alt="ecran-accueil" height="400" width="500"  >
           </div>
           <br/>
-          <li>Un nouveau système de ressorts a été assemblé, et permet à la chenille d'être suffisamment tendue.</li>
+          <li>Un nouveau système de ressorts a été conçu assemblé, et permet à la chenille d'être suffisamment tendue.</li>
           <div class="text-center">
             <img class="illustration" src="images/ressortvf.jpg" alt="ecran-accueil" height="400" width="500"  >
           </div>
@@ -67,7 +76,7 @@
             <br/>
             <p>Par exemple, un cas concret de notre projet, construire les chenilles nous a posé problème car les trous nous permettant de relier 2 pièces de la chenille sont pile de la taille des trombones que nous devons mettre dedans. Ainsi, lors de la construction de la deuxième chenille, les pièces n’étant pas encore imprimées nous avons donc pu aller modifier la pièce dans FreeCad. Une fois la contrainte sur le diamètre du trou trouvée, nous avons pu augmenter ce diamètre pour nous faciliter la tâche.</p>
             <br/>
-            <p>Nous avons donc pu dessiner quelques pièces du robot. Néanmoins, nous avons pu constater qu’il y a parfois de léger défauts dans la conception des celles-ci, quelques millimètres sont en trop et dans certains cas, nous avons dû limer des parties des pièces pour que tout puisse s’emboiter.</p>
+            <p>Nous avons donc pu dessiner quelques pièces du robot. Néanmoins, nous avons pu constater qu’il y a des défauts dans la conception de celles-ci, quelques millimètres sont en trop et dans certains cas, nous avons dû limer des parties des pièces pour que tout puisse s’emboiter.</p>
             <br/>
 		      	<div class="text-center">
               <img src="images/rouedentée.png" height="300" width="300" class="illustration">

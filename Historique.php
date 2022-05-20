@@ -30,6 +30,9 @@
             <p>La partie signal est commune pour le projet Go-West et pour le projet nous permettant de transformer les signaux des plantes en son. Cette chaîne se décompose de la façon suivante :
             Tout d’abord nous avons les plantes, munies de capteurs directement reliés à notre CAN (convertisseur analogique vers numérique) VegetalSignals, ensuite nous avons l’opto-coupleur, qui permet de séparer les signaux de l’ordinateur de ceux des plantes, afin donc d’isoler les informations en provenance des plantes et de ne pas avoir d’informations parasites. Enfin l’opto-coupleur est relié à notre raspberry-pi pour entrer dans la deuxième chaîne. Nous avons donc pour l’instant le travail des années précédentes à savoir l’opto-coupleur muni de son programme de traitement de signal, ainsi qu’un deuxième programme nous permettant de convertir les informations obtenues en décimal. Durant cette année, nous n’avons pas continué à travailler sur la chaîne signal pour le robot Go-West.</p>
             <br/>
+            <div class="text-center">
+            <img class="illustration" src="images/schemasignal.png" alt="schema-signal" height="300" width="500"  >
+            </div>
             <h4><b>La chaîne Assemblage mécanique</b></h4>
             <p>En ce qui concerne la partie assemblage mécanique, ce ne sont pas les élèves de l’année précédente mais directement notre superviseur et client, Pierre Grangé-Praderas, qui s’est occupé de nous fournir le matériel nécessaire pour ce projet.
             Pour cela, nous avons eu accès à une boîte contenant tout le matériel nécessaire pour concevoir le robot Go-West. Muni également d’un modèle 3D réalisé sur le logiciel FreeCad, nous avons pu commencer à assembler. Il est important de préciser que le but de la partie assemblage mécanique est de transmettre les informations en sortie, c’est-à-dire interpréter des informations et les transformer en commande moteur.</p>
@@ -52,10 +55,14 @@
             <li>le choix de locomotion pour le robot </li>
             <li>impression des roues dentées </li>
             <li> revision de la taille du tank et modification des plans sur freecad</li>
-           
+            <br>
+            <div class="text-center">
+            <img class="illustration" src="images/mindmaphistorique.png" alt="recapitulatif historique du travail effectué l'an passé" height="600" width="1000"  >
+            </div>
+            <p class="centre"><u>Roadmap du travail effectué l'an passé</u></p>
            
             <br/>
-            <h2>Anciens matériaux</h2>
+            <h2>Anciens tests</h2>
             <br/>
             <div class="text-center">
             <img class="illustration" src="images/chenille.png" height="400" width="500" >
@@ -67,7 +74,7 @@
             <img class="illustration" src="images/oscilloscope.png" height="400" width="500" >
             </div>
             <p class="centre"><u>Tests à l'oscilloscope</u></p>
-            <p>Des branchements avaient été fait pour la commande moteur.</p>
+            <p>Des branchements avaient été testés pour la commande moteur.</p>
             
             <br/>
             <div class="text-center">
@@ -83,11 +90,11 @@
             <div class="text-center">
             <img class="illustration" src="images/branchement.PNG" height="500" width="500" >
             </div>
-            <p class="centre"><u>Branchement du driver au Raspberry Pi 3</u></p>
+            <p class="centre"><u>Test du branchement du driver au Raspberry Pi 3</u></p>
             <div class="text-center">
             <img class="illustration" src="images/branchement2.png" height="500" width="500" >
             </div>
-            <p class="centre"><u>Branchement du driver au Raspberry Pi 3 et aux moteurs</u></p>
+            <p class="centre"><u>Test du branchement du driver au Raspberry Pi 3 et aux moteurs</u></p>
             <p>Manipulation effectuée sur un seul moteur. Nous avons pu cette année travailler sur deux moteurs.</p>
            
             <br/>
@@ -107,9 +114,9 @@
     <div class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 contenu">
             <h2>Orientation pour la reprise du projet cette année</h2>
-            <li>Améliorer la trajectoire et le montage du robot</li>
+            <li>Améliorer le montage du robot</li>
             <li> Driver les moteurs à l'aide des signaux émis par les plantes </li>
-            <li>réfléchir au placement des plantes sans altérer les composants du robot</li>
+            <li>réfléchir à placer les plantes soit aux points cardinaux ou bien aux angles du robot</li>
             <li>Traitement du signal synchrone pour piloter le robot à l'aide du boitier Vegetal Signals</li>
         </div>
     </div>
