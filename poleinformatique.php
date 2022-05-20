@@ -54,12 +54,14 @@
 						</ul>
 						<p><b>Deuxème partie : traitement du signal</b></p>
 						<ul>
-							<li>Une fois le script python documenté, nous avons souhaité lui ajouter une partie de traitement du signal obtenu en étudiant sa moyenne au cours du temps, mais aussi en décomposant le signal en séries de Fourier.</li>
+							<li>Une fois le script python documenté, nous avons souhaité lui ajouter une partie de traitement du signal obtenu en étudiant sa moyenne au cours du temps, mais aussi en décomposant le signal en séries de Fourier.</li><br/><br/> 	
+							<div class="centre"><img src="images/plotFramboisier.png" height="500" class="graph"><br/><u>Figure représentant le signal d'un pied de Framboisier et son spectre</u><br/><br/></div>
+							<div class="centre"><img src="images/plotFramboisierZoom.png" height="500" class="graph"><br/><u>Figure représentant le signal d'un pied de Framboisier et son spectre zoomé</u><br/><br/></div></li>
 							<li>Une rencontre avec les ingénieurs de Vegetal Signals nous a permis d'en apprendre plus sur les possibilités de traitement de signal avec leur capteur, et leurs conseils nous ont permis de recadrer notre travail.</li>
 						</ul>
 						<p><b>Troisième partie : portage de code en C</b></p>
 						<ul>
-							<li>Le python avait été choisi car c'était un langage déjà utilisé par les membres du pôle informatique, mais celui-ci ne permettait pas de réaliser les opérations nécessaires de traitement des valeurs assez rapidement.</li>
+							<li>Le python avait été choisi car c'était un langage déjà utilisé par les membres du pôle informatique, mais celui-ci ne permettait pas de réaliser les opérations nécessaires de traitement des valeurs assez rapidement.
 							<li>Nous avons donc décidé de coder à présent en C, en reprenant le script de transformation de valeurs héxadécimales vers les valeurs décimales.</li>
 							<li>Le C étant un langage nouveau pour tous les membres du groupe, une période de formation a été nécessaire, et nous a retardés.</li>
 						</ul>
