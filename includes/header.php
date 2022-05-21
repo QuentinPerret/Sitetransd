@@ -19,8 +19,8 @@
            
                 <ul class="nav navbar-nav">
                     <li><a href="Historique.php">Historique</a></li>
-                    <li><a href="Polemecanique.php">Pole mécanique</a></li>
-                    <li><a href="Poleinformatique.php">Pole informatique</a></li>
+                    <li><a href="Polemecanique.php">Pôle mécanique</a></li>
+                    <li><a href="Poleinformatique.php">Pôle informatique</a></li>
                     <li><a href="GestionProjet.php">GestionProjet</a></li>
                     <li><a href="Documents.php">Documents</a></li>
                     <li><a href="Planvert.php">Plan vert</a></li>
