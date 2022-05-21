@@ -15,7 +15,6 @@
 		<div class="row">
 			<div class="col-lg-12 col-md-12 col-sm-12 contenu">
 				
-				<h3>Plan Vert</h3>
 				<p>Le Plan Vert doit recouvrir toutes les dimensions du Développement Durable et de la Responsabilité Sociétale (DD&RS), c'est-à-dire par des aspects économiques, sociaux et environnementaux.</p>
 				<p>Le projet est mené par le Fablab Cohabit qui soutient et offre l’accès à ses services à un très large public, et accueille notamment des jeunes en situation de décrochage scolaire par exemple.</p>
 				<p>Différents acteurs locaux sont également impliqués et notamment <strong>Végétal Signals</strong>.</p>
