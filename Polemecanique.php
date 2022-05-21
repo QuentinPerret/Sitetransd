@@ -30,17 +30,13 @@
         <br>
         <br>
         <br>
-				<p><b>Ce qui avait été fait d'octobre à janvier </b></p>
+				<h3><b>Ce qui avait été fait d'octobre à janvier </b></h3>
 				<div class="text-center">
             <img class="illustration" src="images/mapjanvier.png" alt="ecran-accueil" height="400" width="900"  >
             </div>
 			
 				
-				<h3>Aide interne et externe pour mener à bien ces objectifs</h3>
-				<p>Nous disposions de l'aide de plusieurs étudiants en stage au fablab. À partir de janvier, Hugo en stage de fin d'étude nous a aidé sur le plan du robot. Malheureusement, ses plans n'étaient pas optimaux et ne fonctionnaient pas à l'assemblage. Un autre étudiant, El Azad, en service civique pour quelques mois nous a aidé sur le mécanisme des ressorts. Il a pu répondre à nos besoins et a créé des pièces fonctionnelles. Au niveau interne, notre tuteur Pierre a énormement contribué à la conception et l'assemblage du robot. Il a pu se rendre disponible malgré son emploi du temps chargé et ses autres projets. Quand nous ne savions pas quelle orientation prendre, Pierre nous a donné des conseils et nous a transmis des connaissances en modélisation, impréssion 3D et éléctronique. Pour cela, nous lui devons beaucoup.</p>
-
-				
-				<h3>Ce qui a été fait de janvier à aujourd'hui</h3>
+				<h3><b>Ce qui a été fait de janvier à aujourd'hui</b></h3>
 				<ul>
           <li>Nouvelle chenille imprimée avec un matériau plus flexible(tpu). Elle est maintenant assez tendue.</li>
           <div class="text-center">
@@ -57,18 +53,18 @@
             <img class="illustration" src="images/changement_engrenage.png" alt="ecran-accueil" height="400" width="500"  >
           </div>
           <br/>
-²       </ul>
+       </ul>
 				
-				<h3>Test du robot en action :</h3>
+				<h3><b>Test du robot en action :</b></h3>
         <p>Nous avons pu tester le système de chenille en branchant le moteur à une prise. Le système fonctionne : la chenille roule sans frottement. <br/>
-        Nous avons néanmoins décelé un problème : l'ampérage nécessaire pour démarrer la chenille est très élevé. Cela est dû au choix du moteur qui est trop puissant pour l'utilisation que l'on veut en faire. <br/>
-        Un prochain objectif sera donc de changer ce moteur pour un moteur de la même taille mais moins puissant qui aura donc besoin de moins d'ampérage au démarrage.</p>
-				<ul>
-          <li>Mettre ici vidéo du robot qui roule (si on l'aura)</li>
-				</ul>
+        Nous avons néanmoins décelé un problème : l'ampérage nécessaire pour démarrer la chenille est très élevé. Cela est dû au choix du moteur qui est trop puissant pour l'utilisation que l'on veut en faire. <br/></p>
+
+        <h3><b>Aide interne et externe pour mener à bien ces objectifs</b></h3>
+				<p>Nous disposions de l'aide de plusieurs étudiants en stage au fablab. À partir de janvier, Hugo en stage de fin d'étude nous a aidé sur le plan du robot. Malheureusement, ses plans n'étaient pas optimaux et ne fonctionnaient pas à l'assemblage. Un autre étudiant, El Azad, en service civique pour quelques mois nous a aidé sur le mécanisme des ressorts. Il a pu répondre à nos besoins et a créé des pièces fonctionnelles. Au niveau interne, notre tuteur Pierre a énormement contribué à la conception et l'assemblage du robot. Il a pu se rendre disponible malgré son emploi du temps chargé et ses autres projets. Quand nous ne savions pas quelle orientation prendre, Pierre nous a donné des conseils et nous a transmis des connaissances en modélisation, impréssion 3D et éléctronique. Pour cela, nous lui devons beaucoup.</p>
+
 				<div class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 contenu">
-            <h2>Formations</h2>
+            <h3><b>Formations</b></h3>
             <h4><b>Formation Freecad</b></h4>
             <p>FreeCad est un logiciel gratuit et libre de conception paramétrique, il nous permet également de créer des modèles 3D, notamment pour les domaines de la mécanique. Grâce à ce logiciel, notre encadrant a pu nous fournir un modèle 3D de chaque pièce de notre tank-solaire, le robot Go-West. Une fois les modèles créés sur FreeCad, il ne reste plus qu’à les importer dans le format stl, qui est le format accepté par les imprimantes 3D.</p>
             <br/>
