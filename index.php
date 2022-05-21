@@ -1,7 +1,9 @@
 <!doctype html>
 <html>
 
-<?php require_once "includes/head.php"; ?>
+<?php
+$pageTitle="Plantes Connectées";
+require_once "includes/head.php"; ?>
 
 <body style="background-color: beige">
     <div class="container">

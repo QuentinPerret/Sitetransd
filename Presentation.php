@@ -4,7 +4,7 @@
   <html>
 <body style="background-color: beige">
   <?php
-    $pageTitle = "Ajout d'un film";
+    $pageTitle = "Historique";
     require_once "includes/head.php";
     ?>
   <div class="container">

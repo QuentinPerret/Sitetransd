@@ -2,7 +2,7 @@
   <html>
 
   <?php
- 
+    $pageTitle="Documents";
     require_once "includes/head.php";
     ?>
 

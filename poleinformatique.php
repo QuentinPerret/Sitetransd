@@ -2,7 +2,7 @@
   <html>
 
   <?php
-    $pageTitle = "Pole Informatique";
+    $pageTitle = "Pôle Informatique";
     require_once "includes/head.php";
     ?>
 

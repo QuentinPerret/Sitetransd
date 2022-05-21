@@ -5,4 +5,4 @@
     <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
    
-    <title>Transd </title>
+    <title><?= $pageTitle ?></title>

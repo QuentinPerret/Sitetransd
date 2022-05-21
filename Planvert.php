@@ -2,7 +2,7 @@
   <html>
 
   <?php
-    $pageTitle = "Ajout d'un film";
+    $pageTitle = "Plan vert";
     require_once "includes/head.php";
     ?>
 
