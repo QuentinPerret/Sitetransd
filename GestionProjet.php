@@ -24,18 +24,20 @@
 				
 				<h3>Outils utilisés</h3>
 				<h4><b>Communication</b></h4>
+	
 				<ul class="row" style="list-style: none;">
-				<li class="col-lg-6 col-md-6 col-sm-12 centre"><u>Zoom</u><br><img src="images/zoom.png" height="100" class="photo"></li>
-				<li class="col-lg-6 col-md-6 col-sm-12 centre"><u>Messenger</u><br><img src="images/messenger.png" height="100" class="photo"></li>
+				<li class="col-lg-6 col-md-6 col-sm-12 centre"><u>Element.io</u><br><img src="images/elementio.png" height="100" class="photo"></li>
+				<li class="col-lg-6 col-md-6 col-sm-12 centre"><u>Discord</u><br><img src="images/discordlogo.png" height="100" class="photo"></li>
 				</ul>
-				<p>Pour gérer les communications au sein de notre équipe, nous avons principalement utilisé messenger. Lorsque nous avions besoin d'organiser des réunions, nous étions parfois à distanciel sur Zoom.</p>
+				<p>Pour gérer les communications au sein de notre équipe, nous avons principalement utilisé discord. Lorsque nous avions besoin d'organiser des réunions, nous étions parfois à distanciel sur Element.io.</p>
 				<h4><b>Partage de ressources</b></h4>
 				<ul class="row" style="list-style: none;">
-				<li class="col-lg-4 col-md-4 col-sm-12 centre"><u>Google Drive</u><br><img src="images/google_drive.png" height="100" class="photo"></li>
-				<li class="col-lg-4 col-md-4 col-sm-12 centre"><u>Wiki du Fablab Coh@bit</u><br><img src="images/Cohabit.jpg" height="100" class="photo"></li>
+				<li class="col-lg-4 col-md-4 col-sm-12 centre"><u>Wiki du Fablab Coh@bit</u><br><img src="images/logofablabsansfond.png" height="100" class="photo"></li>
 				<li class="col-lg-4 col-md-4 col-sm-12 centre"><u>GitTea</u><br/><img src="images/gitea.png" alt="logo gitTea" height="100"></li>
+				<li class="col-lg-4 col-md-4 col-sm-12 centre"><u>Redmine</u><br><img src="images/redmine.png" height="100" class="photo"></li>
+
 				</ul>
-				<p>Nous avons décidé d’effectuer le partage de ressources via google drive. C’est un outil très pratique qui permet d'échanger rapidement des documents et interagir tous ensemble dessus. Nous avons également partagé nos différents fichiers de code grâce à git. Néanmoins, l’une des problématiques de notre projet était la présence de données pouvant être sensibles. En effet, c’est un domaine de recherche très convoité. C’est donc l’une des raisons qui nous a également poussé à utiliser le wiki du fablab Coh@bit. L’autre raison, qui est plus évidente, est la nécessité de rédiger une documentation précise de notre travail, afin qu’il ait une valeur scientifique. De plus, le wiki permet de réaliser facilement des tickets/demandes pour signaler les prochaines tâches à effectuer. Ce wiki est donc l’endroit idéal pour remplir cet objectif car il dépend de la structure responsable du projet.</p>
+				<p>Nous avons décidé d’effectuer le partage de ressources via Redmine. C’est un outil très pratique qui permet d'échanger rapidement des documents et interagir tous ensemble dessus. Nous avons également partagé nos différents fichiers de code grâce à git. Néanmoins, l’une des problématiques de notre projet était la présence de données pouvant être sensibles. En effet, c’est un domaine de recherche très convoité. C’est donc l’une des raisons qui nous a également poussé à utiliser le wiki du fablab Coh@bit et des logiciels open source. L’autre raison, qui est plus évidente, est la nécessité de rédiger une documentation précise de notre travail, afin qu’il ait une valeur scientifique. De plus, le wiki permet de réaliser facilement des tickets/demandes pour signaler les prochaines tâches à effectuer. Ce wiki est donc l’endroit idéal pour remplir cet objectif car il dépend de la structure responsable du projet.</p>
 				
 				<h3>Ressenti sur notre gestion de projet</h3>	
 				<h4><b>Points forts</b></h4>

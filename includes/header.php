@@ -18,10 +18,10 @@
         <div class="collapse navbar-collapse" id="navbar-collapse-target">
            
                 <ul class="nav navbar-nav">
-                    <li><a href="Presentation.php">Historique</a></li>
-                    <li><a href="polemecanique.php">Pole mécanique</a></li>
-                    <li><a href="poleinformatique.php">Pole informatique</a></li>
-                    <li><a href="Gestionprojet.php">GestionProjet</a></li>
+                    <li><a href="Historique.php">Historique</a></li>
+                    <li><a href="Polemecanique.php">Pole mécanique</a></li>
+                    <li><a href="Poleinformatique.php">Pole informatique</a></li>
+                    <li><a href="GestionProjet.php">GestionProjet</a></li>
                     <li><a href="Documents.php">Documents</a></li>
                     <li><a href="Planvert.php">Plan vert</a></li>
                 </ul>
