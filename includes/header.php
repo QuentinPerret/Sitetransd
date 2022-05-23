@@ -21,7 +21,7 @@
                     <li><a href="Historique.php">Historique</a></li>
                     <li><a href="Polemecanique.php">Pôle mécanique</a></li>
                     <li><a href="Poleinformatique.php">Pôle informatique</a></li>
-                    <li><a href="GestionProjet.php">GestionProjet</a></li>
+                    <li><a href="GestionProjet.php">Gestion de projet</a></li>
                     <li><a href="Documents.php">Documents</a></li>
                     <li><a href="Planvert.php">Plan vert</a></li>
                 </ul>

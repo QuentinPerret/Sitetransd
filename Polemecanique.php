@@ -48,7 +48,7 @@
             <img class="illustration" src="images/ressortvf.jpg" alt="ecran-accueil" height="400" width="500"  >
           </div>
           <br/>
-          <li>Changement des engrenages du bloc moteur pour réduire le couple. On a donc choisi des engrenages de plus grand diamètre, ce qui nous a obligés à redesigner et réimprimer le block moteur en accord avec les nouvelles dimensions des engrenages.</li>
+          <li>Changement des engrenages du bloc moteur pour augmenter le couple. On a donc choisi des engrenages de plus grand diamètre, ce qui nous a obligés à redesigner et réimprimer le block moteur en accord avec les nouvelles dimensions des engrenages.</li>
           <div class="text-center">
             <img class="illustration" src="images/changement_engrenage.png" alt="ecran-accueil" height="400" width="500"  >
           </div>

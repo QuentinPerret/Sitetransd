@@ -52,7 +52,9 @@
 
 				<h4><b>Points faibles</b></h4>
 				<ul>
-					<li>Pour chaque étape du projet, nous ne définissons pas un temps imparti ou une deadline, nous avançons au fur et à mesure sans réellement se fixer de date à laquelle finir telle ou telle partie</li>
+					<li>Pour chaque étape du projet, nous ne définissons pas un temps imparti ou une deadline, nous avançons au fur et à mesure sans réellement se fixer de date à laquelle finir nos tâches.
+					En effet, notre manque d'expérience en mécanique et dans le langage C ne nous permettait pas de prévoir le temps à consacrer pour chaque tâche. Ce projet nous a donc permis de prendre du recul sur les temps de formation et d'apprentissage nécessaires pour acquérir et développer de nouvelles compétences. Ainsi, notre expérience pourra nous être utile pour nos futurs projets afin de mieux prendre en compte l'ampleur des tâches à réaliser et de mieux planifier notre travail.
+					</li>
 				</ul>
 			</div>
 		</div>
